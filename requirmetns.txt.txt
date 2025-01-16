@@ -382,7 +382,8 @@ matplotlib
 pillow
 plotly
 shutil
-glob2
+
+
 torch
 torchvision
 tk
